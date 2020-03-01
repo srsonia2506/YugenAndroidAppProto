@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
     <string name="ButtonText">Click Me</string>
+    <string name="StrText">Screen 2?</string>
 </resources>
